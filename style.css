@@ -1,0 +1,28 @@
+body {
+     background-color:rgb(209, 221, 221);
+     font-size: 30px;
+     font-weight: bold;
+}
+.main{
+    border:5px gray solid;
+    font-style: oblique;
+    background-color: lightblue
+}
+input{
+    background-color:rgb(178, 212, 212) ;
+     border:black ;
+     width: 200px;
+     height: 20px;
+}
+.mb-3{
+    background-color: cadetblue;
+}
+.form-select-form-select-sm{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.btn-primary{
+    font-weight: bold;
+    font-size: 30px;
+}
